@@ -6,6 +6,9 @@ This script creates new users and associates their HOME file to the following di
 ## Requirements
 Your machine needs to run a Unix based OS and have BASH installed.
 
+## Usage
+If the script is installed as per the instructions below, this is the proper way of running it: `newuser <username>`
+
 ## Installing the scripts on your machine
 
 The following instructions will guide you on how to install this script and have it run easily on your machine.
